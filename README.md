@@ -1,8 +1,9 @@
-- 👋 Hi, I’m sushmitha 
-- 🌱 I’m currently learning Btech in computer science and business systems
-- 💞️ I’m looking to collaborate on people that demands project management
-- 📫 How to reach me - 9360756668
-  
+Hi, I'm Sushmitha 👋
+Computer Science student with a strong interest in data analysis, business problem-solving, and AI-driven systems.
+I enjoy breaking down complex problems into structured solutions and building user-focused digital experiences.
+Currently exploring data-driven decision making and analytical modeling.
+
+That instantly aligns you with Business Analyst vibe
 
 <!---
 sushmitha11331/sushmitha11331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
